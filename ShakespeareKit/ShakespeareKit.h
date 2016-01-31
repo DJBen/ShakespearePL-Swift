@@ -6,7 +6,7 @@
 //  Copyright © 2016 Sihao Lu. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
 
 //! Project version number for ShakespeareKit.
 FOUNDATION_EXPORT double ShakespeareKitVersionNumber;

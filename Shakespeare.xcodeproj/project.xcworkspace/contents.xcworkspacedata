@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:ShakespeareKit.xcodeproj">
+      location = "self:/Users/DJBen/Documents/Developments/ShakespeareKit/Shakespeare.xcodeproj">
    </FileRef>
 </Workspace>
